@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\bin\Debug\foreach örenek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\bin\Debug\foreach örenek.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\bin\Debug\foreach örenek.pdb
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach_örenek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach_örenek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.exe
+C:\Users\User\Desktop\KORUMASIZ\leyla_10A\githup örnekleri\foreach örenek\foreach örenek\obj\Debug\foreach örenek.pdb
